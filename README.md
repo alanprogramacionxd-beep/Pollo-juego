@@ -1,2 +1,0 @@
-# Pollo-juego
-Hola, Hello
